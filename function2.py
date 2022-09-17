@@ -1,5 +1,5 @@
 #user defined function
-#//with argumenet without return value
+#//with argumenet without return values
 
 def printline(letter='.',count=50):      #count default argument
     print(letter*count)
